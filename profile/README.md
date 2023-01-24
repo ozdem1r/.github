@@ -1,3 +1,5 @@
-# ozdem1r
-Traveling legal procedures made easy. Our digital solutions provide accurate visa and passport info, assistance with obtaining documents, legal support abroad.
+# Welcome to OZDEM1R
+![Company Logo](media.png)
+
+**Traveling legal procedures made easy. Our digital solutions provide accurate visa and passport info, assistance with obtaining documents, legal support abroad.**
 
